@@ -32,4 +32,4 @@ class subarrsum{
         ArrayList<Integer> result=subarraySum(a,target);
         System.out.println(result);
         }
-}
+}c
