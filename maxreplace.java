@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class maxreplace {
 
     public static int[] replaceElements(int[] arr) {
 
@@ -23,4 +23,5 @@ class Solution {
 
         System.out.println(Arrays.toString(result));
     }
+
 }
